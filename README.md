@@ -206,7 +206,7 @@ Here, if user1 follows user2 then,
 
 ### Authentication with JWT Token
 
-Write a middleware to authenticate the JWT token.
+a middleware to authenticate the JWT token.
 
 - **Scenario 1**
 
